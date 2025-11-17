@@ -1,4 +1,4 @@
-# Aplikasi Pegawai PNS
+# Aplikasi SIMPEGA
 Aplikasi ini terdiri dari **Backend API (Laravel)** dan **Frontend (Nuxt 4)**. 
 
 ---
